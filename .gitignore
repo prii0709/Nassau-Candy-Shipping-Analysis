@@ -1,0 +1,18 @@
+
+# Google Colab / Jupyter
+.ipynb_checkpoints/
+sample_data/
+.config
+
+# Streamlit
+streamlit.log
+.streamlit/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db

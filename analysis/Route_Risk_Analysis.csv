@@ -1,0 +1,24 @@
+Route,Total_Shipments,Average_Lead_Time,Median_Lead_Time,Lead_Time_Std,High_Average_Lead_Time,High_Variability,Route_Risk
+Lot's O' Nuts → Missouri,36,1455.861111111111,1568.0,341.346255103254,True,True,High Risk
+Lot's O' Nuts → Tennessee,109,1439.908256880734,1392.0,300.63727194585243,True,True,High Risk
+Secret Factory → New York,24,1424.0,1436.0,291.95994364921387,True,True,High Risk
+Wicked Choccy's → Iowa,14,1418.5714285714287,1531.5,293.42295916821666,True,True,High Risk
+Wicked Choccy's → Rhode Island,21,1410.3809523809523,1450.0,294.2180273522471,True,True,High Risk
+Wicked Choccy's → Washington,221,1399.7601809954751,1363.0,306.093095535513,True,True,High Risk
+Lot's O' Nuts → Colorado,103,1395.1553398058252,1302.0,304.6806350237275,True,True,High Risk
+Wicked Choccy's → Massachusetts,54,1393.7777777777778,1338.5,345.91604754576747,True,True,High Risk
+The Other Factory → New York,14,1387.9285714285713,1383.5,322.49542973165086,True,True,High Risk
+Lot's O' Nuts → Washington,269,1375.278810408922,1335.0,325.12184908249156,True,True,High Risk
+Wicked Choccy's → Colorado,70,1368.1,1274.0,316.374761722664,True,True,High Risk
+The Other Factory → California,21,1361.3333333333333,1302.0,351.7502428333679,True,True,High Risk
+Wicked Choccy's → Pennsylvania,227,1361.3259911894272,1305.0,296.0007016603436,True,True,High Risk
+Wicked Choccy's → Ohio,189,1359.6190476190477,1275.0,294.34131811580903,True,True,High Risk
+Lot's O' Nuts → Minnesota,43,1353.5116279069769,1363.0,323.55549844788334,True,True,High Risk
+Wicked Choccy's → Missouri,29,1348.8275862068965,1333.0,365.6355590871401,True,True,High Risk
+Lot's O' Nuts → Quebec,24,1347.5416666666667,1302.0,305.77513465128993,True,True,High Risk
+Lot's O' Nuts → British Columbia,18,1346.2222222222222,1510.0,322.1940510561107,True,True,High Risk
+Wicked Choccy's → Utah,23,1345.4347826086957,1305.0,324.59426787171964,True,True,High Risk
+Wicked Choccy's → California,823,1345.36695018226,1283.0,297.5172799190315,True,True,High Risk
+Lot's O' Nuts → Pennsylvania,331,1341.6767371601209,1275.0,305.06213182789867,True,True,High Risk
+Lot's O' Nuts → Idaho,14,1341.0,1480.0,364.96554104989985,True,True,High Risk
+Lot's O' Nuts → California,1125,1340.9333333333334,1276.0,302.9580059691161,True,True,High Risk
